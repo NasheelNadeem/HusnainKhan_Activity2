@@ -1,3 +1,5 @@
+#Nasheel's Github: https://github.com/NasheelNadeem/Activity2
+#Husnain's Github: https://github.com/Iblamehussi/HusnainKhan_Activity2
 import turtle
 
 #Function to get color from character
